@@ -1,0 +1,42 @@
+﻿<Properties StartupItem="Xamarin.iOS.WikitudeSample/Xamarin.iOS.WikitudeSample.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.iOS.WikitudeSample/Resources/ARchitectWorld/js/jsondata.js">
+    <Files>
+      <File FileName="Xamarin.iOS.WikitudeSample/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Xamarin.iOS.WikitudeSample/ViewController.cs" Line="30" Column="8" />
+      <File FileName="Xamarin.iOS.WikitudeSample/SecretKey.cs" Line="7" Column="3" />
+      <File FileName="Xamarin.iOS.WikitudeSample/Resources/ARchitectWorld/index.html" Line="23" Column="5" />
+      <File FileName="Xamarin.iOS.WikitudeSample/Resources/ARchitectWorld/js/multiplepois.js" Line="53" Column="3" />
+      <File FileName="Xamarin.iOS.WikitudeSample/Resources/ARchitectWorld/js/marker.js" Line="38" Column="8" />
+      <File FileName="Xamarin.iOS.WikitudeSample/Resources/ARchitectWorld/js/jsondata.js" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Xamarin.iOS.WikitudeSample" expanded="True">
+            <Node name="Xamarin.iOS.WikitudeSample" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="ARchitectWorld" expanded="True">
+                  <Node name="assets" expanded="True" />
+                  <Node name="css" expanded="True" />
+                  <Node name="jquery" expanded="True">
+                    <Node name="images" expanded="True" />
+                  </Node>
+                  <Node name="js" expanded="True">
+                    <Node name="jsondata.js" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Xamarin.iOS.WikitudeSample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.58374b549ed26c12a3b75b053d84f66db1f71cb2" />
+</Properties>
